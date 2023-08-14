@@ -1,5 +1,5 @@
 ### Welcome to my GitHub!
-### My name is Izael Junior and I'm currently studying to be a fullstack developer with .NET and Angular
+### My name is Izael Junior and I'm currently a fullstack developer with .NET and Angular
 
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaeljr&layout=compact&langs_count=7&theme=dark"/>
