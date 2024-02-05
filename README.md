@@ -9,7 +9,7 @@ Skills
 <div>
    <p>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=angular,js,ts,cs,dotnet" />
+     <img src="https://skillicons.dev/icons?i=angular,js,ts,cs,dotnet,go" />
     </a>
    </p>
 </div>
